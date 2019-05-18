@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iegahyaib.finesure.com/sitemap.xml
